@@ -1,7 +1,7 @@
 # Tele_customer_churn
  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EasonJia9598/Amazon_book_review_score/blob/main/A3_EasonJia.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EasonJia9598/Tele_customer_churn/blob/main/A2_EasonJia.ipynb)
 
 
 In this project, we want to find and train a model that can predict reliably whether a customer is going to leave or not.
